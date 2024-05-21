@@ -11,7 +11,6 @@ Prerequisites
 6. Code Editor
 
 Run the following commands to install related packages 
-(These are already installed. In case of troubleshooting, please try to install them again. )
 ------------------------------------------------------------------------
 
 1. python3 -m venv venv
