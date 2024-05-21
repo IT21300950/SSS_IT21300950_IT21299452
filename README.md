@@ -3,12 +3,12 @@ Secure Software Systems Assignment
 
 Prerequisites
 -----------------------------
-XAMPP
-Python Flask Server
-scikit-learn 
-pandas
-joblib
-Code Editor
+1. XAMPP
+2. Python Flask Server
+3. scikit-learn 
+4. pandas
+5. joblib
+6. Code Editor
 
 Run the following commands to install related packages 
 (These are already installed. In case of troubleshooting, please try to install them again. )
